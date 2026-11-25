@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-11-24T20:56:21",
+  "slots": {
+    "front": {
+      "source": "01_front.jpg",
+      "use": "头像 / 图鉴",
+      "quality": {
+        "width": 1121,
+        "height": 1800,
+        "sharpness": 13674.6,
+        "brightness": 142.0
+      },
+      "bgRemoved": 0
+    },
+    "side": {
+      "source": "02_side.jpg",
+      "use": "半身立绘",
+      "quality": {
+        "width": 1280,
+        "height": 1706,
+        "sharpness": 14085.2,
+        "brightness": 128.1
+      },
+      "bgRemoved": 0
+    },
+    "full": {
+      "source": "03_full.jpg",
+      "use": "部署小人",
+      "quality": {
+        "width": 960,
+        "height": 1280,
+        "sharpness": 15265.9,
+        "brightness": 172.9
+      },
+      "bgRemoved": 0
+    },
+    "action": {
+      "source": "04_action.jpg",
+      "use": "攻击动作参考",
+      "quality": {
+        "width": 1309,
+        "height": 1280,
+        "sharpness": 14826.8,
+        "brightness": 138.4
+      },
+      "bgRemoved": 0
+    },
+    "rest": {
+      "source": "02_side.jpg",
+      "use": "待机 / 基地",
+      "quality": {
+        "width": 1280,
+        "height": 1706,
+        "sharpness": 14085.2,
+        "brightness": 128.1
+      },
+      "bgRemoved": 0
+    },
+    "alert": {
+      "source": "03_full.jpg",
+      "use": "技能图标 A / 表情",
+      "quality": {
+        "width": 960,
+        "height": 1280,
+        "sharpness": 15265.9,
+        "brightness": 172.9
+      },
+      "bgRemoved": 0
+    },
+    "puffed": {
+      "source": "04_action.jpg",
+      "use": "技能图标 B / 表情",
+      "quality": {
+        "width": 1309,
+        "height": 1280,
+        "sharpness": 14826.8,
+        "brightness": 138.4
+      },
+      "bgRemoved": 0
+    },
+    "meow": {
+      "source": "01_front.jpg",
+      "use": "技能图标 C / 表情",
+      "quality": {
+        "width": 1121,
+        "height": 1800,
+        "sharpness": 13674.6,
+        "brightness": 142.0
+      },
+      "bgRemoved": 0
+    },
+    "content": {
+      "source": "02_side.jpg",
+      "use": "表情差分",
+      "quality": {
+        "width": 1280,
+        "height": 1706,
+        "sharpness": 14085.2,
+        "brightness": 128.1
+      },
+      "bgRemoved": 0
+    },
+    "groom": {
+      "source": "04_action.jpg",
+      "use": "表情差分",
+      "quality": {
+        "width": 1309,
+        "height": 1280,
+        "sharpness": 14826.8,
+        "brightness": 138.4
+      },
+      "bgRemoved": 0
+    },
+    "paw": {
+      "source": "03_full.jpg",
+      "use": "表情差分",
+      "quality": {
+        "width": 960,
+        "height": 1280,
+        "sharpness": 15265.9,
+        "brightness": 172.9
+      },
+      "bgRemoved": 0
+    }
+  },
+  "missingSlots": [],
+  "themeColor": "#8FC7E8",
+  "bgMode": "keep",
+  "species": "dog"
+}

@@ -1,0 +1,46 @@
+FURLINE DEFENSE // SFX SELF CHECK
+sample rate 44100 Hz | mono | 16 bit | target peak window -6.0 .. -1.0 dBFS
+
+name               dur_ms  peak_dB   rms_dB  centroid flatness result
+ui_click             35.0    -4.00   -18.87      2736   0.087 PASS
+ui_confirm          110.0    -4.00   -15.12      1432   0.002 PASS
+ui_back             100.0    -4.00   -15.53      1059   0.003 PASS
+ui_tab               45.0    -4.00   -17.28       889   0.040 PASS
+ui_open             180.0    -4.00   -19.05      4637   0.371 PASS
+ui_close            160.0    -4.00   -18.49      4294   0.349 PASS
+ui_error            220.0    -3.60   -12.02      2276   0.220 PASS
+coin                320.0    -3.40   -19.21      3428   0.010 PASS
+gacha_open          700.0    -2.20   -12.21      8976   0.766 PASS
+gacha_pull         1400.0    -2.20   -15.70      3666   0.307 PASS
+gacha_tick           30.0    -2.20   -18.26      2656   0.064 PASS
+gacha_reveal_3      900.0    -3.60   -16.01      2210   0.024 PASS
+gacha_reveal_4     1200.0    -2.50   -14.53      3280   0.039 PASS
+gacha_reveal_5     1800.0    -1.00   -14.61      4285   0.061 PASS
+gacha_result        500.0    -2.20   -15.92      2648   0.129 PASS
+battle_deploy       420.0    -2.00   -12.28      5324   0.529 PASS
+battle_deploy_ready  180.0    -2.00   -13.20      1410   0.024 PASS
+unit_select          70.0    -2.00   -18.58      2304   0.130 PASS
+atk_light           200.0    -2.00   -15.75      6197   0.450 PASS
+atk_heavy           300.0    -2.00   -13.29      3773   0.320 PASS
+atk_ranged          220.0    -2.00   -16.79      1925   0.162 PASS
+hit_flesh           140.0    -2.00   -15.84      3031   0.310 PASS
+hit_armor           120.0    -2.00   -16.63      1200   0.028 PASS
+hit_magic           170.0    -2.00   -16.85      5696   0.370 PASS
+enemy_die           320.0    -2.00   -17.03      2679   0.225 PASS
+boss_die           1600.0    -1.40   -16.58      3720   0.377 PASS
+boss_roar          1200.0    -1.50   -10.16      1581   0.130 PASS
+skill_cast          260.0    -1.80   -14.91      3137   0.239 PASS
+skill_fire         1000.0    -1.60   -12.63      3714   0.360 PASS
+skill_ice          1000.0    -1.70   -15.36      9378   0.512 PASS
+skill_random        900.0    -1.70   -12.84      2627   0.178 PASS
+skill_dark         1000.0    -1.60   -13.32      3349   0.340 PASS
+skill_heal          900.0    -2.00   -14.64      1478   0.017 PASS
+wave_start         1000.0    -1.40   -11.63      1351   0.058 PASS
+life_lost           700.0    -1.50    -9.85      1089   0.027 PASS
+victory            2600.0    -1.00    -9.40      1381   0.073 PASS
+defeat             2400.0    -1.00   -13.98      1076   0.104 PASS
+speed_toggle         90.0    -4.00   -17.91      3676   0.272 PASS
+pause_toggle        100.0    -4.00   -18.98       614   0.012 PASS
+ult_charge          600.0    -1.80   -13.96      1520   0.049 PASS
+
+40 / 40 PASS

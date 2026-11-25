@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-11-24T20:56:21",
+  "slots": {
+    "front": {
+      "source": "01_front.jpg",
+      "use": "头像 / 图鉴",
+      "quality": {
+        "width": 960,
+        "height": 1280,
+        "sharpness": 15105.7,
+        "brightness": 132.0
+      },
+      "bgRemoved": 0
+    },
+    "side": {
+      "source": "02_side.jpg",
+      "use": "半身立绘",
+      "quality": {
+        "width": 1280,
+        "height": 1707,
+        "sharpness": 12961.1,
+        "brightness": 128.3
+      },
+      "bgRemoved": 0
+    }
+  },
+  "missingSlots": [
+    "full",
+    "action",
+    "rest",
+    "alert",
+    "puffed",
+    "meow",
+    "content",
+    "groom",
+    "paw"
+  ],
+  "themeColor": "#F2C14E",
+  "bgMode": "keep",
+  "species": "bird"
+}

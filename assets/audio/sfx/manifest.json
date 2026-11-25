@@ -1,0 +1,282 @@
+[
+  {
+    "name": "ui_click",
+    "file": "ui_click.wav",
+    "dur": 0.035,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_confirm",
+    "file": "ui_confirm.wav",
+    "dur": 0.11,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_back",
+    "file": "ui_back.wav",
+    "dur": 0.1,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_tab",
+    "file": "ui_tab.wav",
+    "dur": 0.045,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_open",
+    "file": "ui_open.wav",
+    "dur": 0.18,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_close",
+    "file": "ui_close.wav",
+    "dur": 0.16,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ui_error",
+    "file": "ui_error.wav",
+    "dur": 0.22,
+    "peak_dbfs": -3.6,
+    "kind": "ui"
+  },
+  {
+    "name": "coin",
+    "file": "coin.wav",
+    "dur": 0.32,
+    "peak_dbfs": -3.4,
+    "kind": "ui"
+  },
+  {
+    "name": "gacha_open",
+    "file": "gacha_open.wav",
+    "dur": 0.7,
+    "peak_dbfs": -2.2,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_pull",
+    "file": "gacha_pull.wav",
+    "dur": 1.4,
+    "peak_dbfs": -2.2,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_tick",
+    "file": "gacha_tick.wav",
+    "dur": 0.03,
+    "peak_dbfs": -2.2,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_reveal_3",
+    "file": "gacha_reveal_3.wav",
+    "dur": 0.9,
+    "peak_dbfs": -3.6,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_reveal_4",
+    "file": "gacha_reveal_4.wav",
+    "dur": 1.2,
+    "peak_dbfs": -2.5,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_reveal_5",
+    "file": "gacha_reveal_5.wav",
+    "dur": 1.8,
+    "peak_dbfs": -1.0,
+    "kind": "gacha"
+  },
+  {
+    "name": "gacha_result",
+    "file": "gacha_result.wav",
+    "dur": 0.5,
+    "peak_dbfs": -2.2,
+    "kind": "gacha"
+  },
+  {
+    "name": "battle_deploy",
+    "file": "battle_deploy.wav",
+    "dur": 0.42,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "battle_deploy_ready",
+    "file": "battle_deploy_ready.wav",
+    "dur": 0.18,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "unit_select",
+    "file": "unit_select.wav",
+    "dur": 0.07,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "atk_light",
+    "file": "atk_light.wav",
+    "dur": 0.2,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "atk_heavy",
+    "file": "atk_heavy.wav",
+    "dur": 0.3,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "atk_ranged",
+    "file": "atk_ranged.wav",
+    "dur": 0.22,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "hit_flesh",
+    "file": "hit_flesh.wav",
+    "dur": 0.14,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "hit_armor",
+    "file": "hit_armor.wav",
+    "dur": 0.12,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "hit_magic",
+    "file": "hit_magic.wav",
+    "dur": 0.17,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "enemy_die",
+    "file": "enemy_die.wav",
+    "dur": 0.32,
+    "peak_dbfs": -2.0,
+    "kind": "battle"
+  },
+  {
+    "name": "boss_die",
+    "file": "boss_die.wav",
+    "dur": 1.6,
+    "peak_dbfs": -1.4,
+    "kind": "battle"
+  },
+  {
+    "name": "boss_roar",
+    "file": "boss_roar.wav",
+    "dur": 1.2,
+    "peak_dbfs": -1.5,
+    "kind": "battle"
+  },
+  {
+    "name": "skill_cast",
+    "file": "skill_cast.wav",
+    "dur": 0.26,
+    "peak_dbfs": -1.8,
+    "kind": "skill"
+  },
+  {
+    "name": "skill_fire",
+    "file": "skill_fire.wav",
+    "dur": 1.0,
+    "peak_dbfs": -1.6,
+    "kind": "skill"
+  },
+  {
+    "name": "skill_ice",
+    "file": "skill_ice.wav",
+    "dur": 1.0,
+    "peak_dbfs": -1.7,
+    "kind": "skill"
+  },
+  {
+    "name": "skill_random",
+    "file": "skill_random.wav",
+    "dur": 0.9,
+    "peak_dbfs": -1.7,
+    "kind": "skill"
+  },
+  {
+    "name": "skill_dark",
+    "file": "skill_dark.wav",
+    "dur": 1.0,
+    "peak_dbfs": -1.6,
+    "kind": "skill"
+  },
+  {
+    "name": "skill_heal",
+    "file": "skill_heal.wav",
+    "dur": 0.9,
+    "peak_dbfs": -2.0,
+    "kind": "skill"
+  },
+  {
+    "name": "wave_start",
+    "file": "wave_start.wav",
+    "dur": 1.0,
+    "peak_dbfs": -1.4,
+    "kind": "alert"
+  },
+  {
+    "name": "life_lost",
+    "file": "life_lost.wav",
+    "dur": 0.7,
+    "peak_dbfs": -1.5,
+    "kind": "alert"
+  },
+  {
+    "name": "victory",
+    "file": "victory.wav",
+    "dur": 2.6,
+    "peak_dbfs": -1.0,
+    "kind": "outcome"
+  },
+  {
+    "name": "defeat",
+    "file": "defeat.wav",
+    "dur": 2.4,
+    "peak_dbfs": -1.0,
+    "kind": "outcome"
+  },
+  {
+    "name": "speed_toggle",
+    "file": "speed_toggle.wav",
+    "dur": 0.09,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "pause_toggle",
+    "file": "pause_toggle.wav",
+    "dur": 0.1,
+    "peak_dbfs": -4.0,
+    "kind": "ui"
+  },
+  {
+    "name": "ult_charge",
+    "file": "ult_charge.wav",
+    "dur": 0.6,
+    "peak_dbfs": -1.8,
+    "kind": "skill"
+  }
+]

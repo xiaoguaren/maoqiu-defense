@@ -1,0 +1,62 @@
+[
+  {
+    "name": "music_lobby",
+    "dur_s": 100.0,
+    "peak_dbfs": -2.27,
+    "truepeak_dbfs": -2.25,
+    "rms_db": -15.53,
+    "centroid_hz": 1202.0,
+    "seam_db": 0.73,
+    "seam_disc": 0.0377,
+    "longest_silence_s": 0.0,
+    "nan": false
+  },
+  {
+    "name": "music_battle_kitchen",
+    "dur_s": 82.5,
+    "peak_dbfs": -2.76,
+    "truepeak_dbfs": -2.55,
+    "rms_db": -15.42,
+    "centroid_hz": 2762.0,
+    "seam_db": 0.52,
+    "seam_disc": 0.018,
+    "longest_silence_s": 0.0,
+    "nan": false
+  },
+  {
+    "name": "music_battle_living",
+    "dur_s": 85.16,
+    "peak_dbfs": -2.18,
+    "truepeak_dbfs": -2.18,
+    "rms_db": -15.29,
+    "centroid_hz": 2695.0,
+    "seam_db": -0.41,
+    "seam_disc": 0.0324,
+    "longest_silence_s": 0.0,
+    "nan": false
+  },
+  {
+    "name": "music_battle_balcony",
+    "dur_s": 88.0,
+    "peak_dbfs": -1.92,
+    "truepeak_dbfs": -1.92,
+    "rms_db": -15.4,
+    "centroid_hz": 2432.0,
+    "seam_db": 0.39,
+    "seam_disc": 0.0936,
+    "longest_silence_s": 0.0,
+    "nan": false
+  },
+  {
+    "name": "music_boss",
+    "dur_s": 82.29,
+    "peak_dbfs": -2.44,
+    "truepeak_dbfs": -2.39,
+    "rms_db": -15.42,
+    "centroid_hz": 2960.0,
+    "seam_db": -1.28,
+    "seam_disc": 0.02,
+    "longest_silence_s": 0.0,
+    "nan": false
+  }
+]

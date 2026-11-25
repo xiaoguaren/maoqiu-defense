@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-11-24T20:56:22",
+  "slots": {
+    "front": {
+      "source": "01_front.jpg",
+      "use": "头像 / 图鉴",
+      "quality": {
+        "width": 1077,
+        "height": 608,
+        "sharpness": 14862.5,
+        "brightness": 103.4
+      },
+      "bgRemoved": 0
+    },
+    "side": {
+      "source": "02_side.jpg",
+      "use": "半身立绘",
+      "quality": {
+        "width": 821,
+        "height": 1337,
+        "sharpness": 14645.0,
+        "brightness": 103.1
+      },
+      "bgRemoved": 0
+    },
+    "full": {
+      "source": "03_full.jpg",
+      "use": "部署小人",
+      "quality": {
+        "width": 1080,
+        "height": 1440,
+        "sharpness": 14269.8,
+        "brightness": 108.4
+      },
+      "bgRemoved": 0
+    },
+    "action": {
+      "source": "04_action.jpg",
+      "use": "攻击动作参考",
+      "quality": {
+        "width": 720,
+        "height": 1280,
+        "sharpness": 14365.7,
+        "brightness": 100.9
+      },
+      "bgRemoved": 0
+    }
+  },
+  "missingSlots": [
+    "rest",
+    "alert",
+    "puffed",
+    "meow",
+    "content",
+    "groom",
+    "paw"
+  ],
+  "themeColor": "#D89A4E",
+  "bgMode": "keep",
+  "species": "cat"
+}

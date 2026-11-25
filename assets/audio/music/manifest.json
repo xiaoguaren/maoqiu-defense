@@ -1,0 +1,47 @@
+[
+  {
+    "name": "music_lobby",
+    "file": "music_lobby.mp3",
+    "duration": 100.0,
+    "bpm": 96,
+    "key": "Am",
+    "lufs": -16.1,
+    "loop": true
+  },
+  {
+    "name": "music_battle_kitchen",
+    "file": "music_battle_kitchen.mp3",
+    "duration": 82.5,
+    "bpm": 128,
+    "key": "Em",
+    "lufs": -16.1,
+    "loop": true
+  },
+  {
+    "name": "music_battle_living",
+    "file": "music_battle_living.mp3",
+    "duration": 85.16,
+    "bpm": 124,
+    "key": "Dm",
+    "lufs": -16.1,
+    "loop": true
+  },
+  {
+    "name": "music_battle_balcony",
+    "file": "music_battle_balcony.mp3",
+    "duration": 88.0,
+    "bpm": 120,
+    "key": "F#m",
+    "lufs": -16.1,
+    "loop": true
+  },
+  {
+    "name": "music_boss",
+    "file": "music_boss.mp3",
+    "duration": 82.29,
+    "bpm": 140,
+    "key": "Cm",
+    "lufs": -16.1,
+    "loop": true
+  }
+]
