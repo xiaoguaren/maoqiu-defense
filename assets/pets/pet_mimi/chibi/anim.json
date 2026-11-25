@@ -1,0 +1,10 @@
+{
+ "fps": 8,
+ "size": 512,
+ "frames": {
+  "idle": "idle_512.png",
+  "attack": "attack_512.png",
+  "walk": "walk_512.png"
+ },
+ "icon": "icon_128.png"
+}

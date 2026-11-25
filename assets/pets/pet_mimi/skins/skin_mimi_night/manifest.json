@@ -1,0 +1,41 @@
+{
+  "id": "skin_mimi_night",
+  "characterId": "pet_mimi",
+  "name": "深夜巡逻·咪咪",
+  "generator": "tools/skin_gen.py",
+  "generatedAt": "2026-11-25T19:36:27",
+  "style": {
+    "mode": "duotone",
+    "accent": "#4A5A8A",
+    "strength": 0.9
+  },
+  "fx": "star",
+  "source": {
+    "portrait": "assets/pets/pet_mimi/portrait_1024x1536.png",
+    "avatar": "assets/pets/pet_mimi/avatar_256.png",
+    "unit": "assets/pets/pet_mimi/unit_512.png"
+  },
+  "pipeline": "整图换色 + 封面框 + 粒子",
+  "outputs": {
+    "portrait_1024x1536.png": {
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB"
+    },
+    "avatar_256.png": {
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    "unit_512.png": {
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    "thumb_256.png": {
+      "width": 256,
+      "height": 256,
+      "mode": "RGB"
+    }
+  }
+}

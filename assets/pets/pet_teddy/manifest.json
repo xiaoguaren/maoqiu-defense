@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-11-24T20:57:02",
+  "slots": {
+    "front": {
+      "source": "01_front.jpg",
+      "use": "头像 / 图鉴",
+      "quality": {
+        "width": 339,
+        "height": 318,
+        "sharpness": 14714.4,
+        "brightness": 76.0
+      },
+      "bgRemoved": 0
+    },
+    "side": {
+      "source": "02_side.jpg",
+      "use": "半身立绘",
+      "quality": {
+        "width": 584,
+        "height": 550,
+        "sharpness": 14874.0,
+        "brightness": 141.2
+      },
+      "bgRemoved": 0
+    },
+    "full": {
+      "source": "03_full.jpg",
+      "use": "部署小人",
+      "quality": {
+        "width": 584,
+        "height": 550,
+        "sharpness": 14874.0,
+        "brightness": 141.2
+      },
+      "bgRemoved": 0
+    },
+    "action": {
+      "source": "04_action.jpg",
+      "use": "攻击动作参考",
+      "quality": {
+        "width": 786,
+        "height": 589,
+        "sharpness": 15162.7,
+        "brightness": 123.4
+      },
+      "bgRemoved": 0
+    },
+    "rest": {
+      "source": "05_rest.jpg",
+      "use": "待机 / 基地",
+      "quality": {
+        "width": 540,
+        "height": 960,
+        "sharpness": 15165.6,
+        "brightness": 133.3
+      },
+      "bgRemoved": 0
+    }
+  },
+  "missingSlots": [
+    "alert",
+    "puffed",
+    "meow",
+    "content",
+    "groom",
+    "paw"
+  ],
+  "themeColor": "#7A4E3A",
+  "bgMode": "keep",
+  "species": "dog"
+}
